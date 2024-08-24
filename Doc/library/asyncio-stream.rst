@@ -386,7 +386,7 @@ StreamWriter
 
    .. method:: is_closing()
 
-      Return ``True`` if the stream is closed or in the process of
+      Return ``True`` if the ``StreamWriter`` is closed or in the process of
       being closed.
 
       .. versionadded:: 3.7
